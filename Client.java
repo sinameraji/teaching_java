@@ -1,4 +1,5 @@
 // Interfacing (differet from Java Interfaces that you'll study later)
+// Reference: Java Basic Refresher - Stanford University https://web.stanford.edu/class/archive/cs/cs108/cs108.1082/JavaBasicRefresher.pdf
 
 public class Client{
     public static void main(String[] args){

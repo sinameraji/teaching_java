@@ -1,4 +1,5 @@
 // Implementation
+// Reference: Java Basic Refresher - Stanford University https://web.stanford.edu/class/archive/cs/cs108/cs108.1082/JavaBasicRefresher.pdf
 
 public class Student {
     // instance variables
